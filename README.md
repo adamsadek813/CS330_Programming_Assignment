@@ -18,6 +18,7 @@ The Sadek_Adam_CS330_Programming_Assignment_Pt2.py file is ran through the termi
 python Sadek_Adam_CS330_Programming_Assignment_Pt2.py
 The Sadek_Adam_CS330_Programming_Assignment_Pt2.py file can be exited at any time by pressing ctrl-c.
 
+There is also a memo included in this repo that includes my part 2 intruder time estimation where the intruder must wait 1 second to see if the lock has unlocked or not. The memo also includes more specific details on how the programs work, my findings, information on the language I chose (python3), as well as a state transition diagram for the Finite Automata.
 
 All testing and programming has been done through Visual Studio Code using Python3.
 
