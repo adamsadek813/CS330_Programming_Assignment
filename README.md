@@ -28,8 +28,9 @@ Unit test coverage for Sadek_Adam_CS330_Programming_Assignment.py can be generat
 4) Exit the program by pressing ctrl-c
 5) Run following code to generate unit test coverage report: coverage report
 
-Unit test coveraege can also be generated in the same exact way for Sadek_Adam_CS330_Programming_Assignment_Pt2.py, except no input is required by the user.
+Unit test coveraege can also be generated in the same exact way for Sadek_Adam_CS330_Programming_Assignment_Pt2., except no input is required by the user.
 
+Note: in order to run the test coveraeges, you must be in the same directory as the python files.
 
 There is also a memo included in this repo that includes my part 2 intruder time estimation where the intruder must wait 1 second to see if the lock has unlocked or not. The memo also includes more specific details on how the programs work, my findings, information on the language I chose (python3), as well as a state transition diagram for the Finite Automata.
 
