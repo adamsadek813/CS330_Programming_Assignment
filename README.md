@@ -25,7 +25,7 @@ Unit test coverage for Sadek_Adam_CS330_Programming_Assignment.py can be generat
 2) Run following code: coverage run -m Sadek_Adam_CS330_Programming_Assignment
 3) Enter inputs to test the program
       Note: To fully test the program, enter at least 1 input that is: shorter than 6 digits, includes the unlock key, includes the lock key, includes non-digit characters, does not include the lock or unlock key.
-4) Exit the program by pressing ctrl + c
+4) Exit the program by pressing ctrl-c
 5) Run following code to generate unit test coverage report: coverage report
 An output like this should appear:
 
