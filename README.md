@@ -7,7 +7,8 @@ If the 'unlock' code is found within the input, the status of the lock will be "
 After typing an input string, the user will be told whether the lock is now locked or unlocked. They may then input another string to attempt to lock or unlock the lock. If the input does not include the lock or unlock codes, the status of the lock will remain the same.
 
 The Sadek_Adam_CS330_Programming_Assignment.py file is ran through the terminal by typing 'python' then the name of the file 'Sadek_Adam_CS330_Programming_Assignment.py' then hitting enter. The input should look as follows:
-python Sadek_Adam_CS330_Programming_Assignment.py
+python Sadek_Adam_CS330_Programming_Assignment.py 
+(Make sure that the terminal is in the same directory that the python file is in when executing the above code)
 
 The Sadek_Adam_CS330_Programming_Assignment.py file can be exited at any time by pressing ctrl-c. 
 
@@ -16,7 +17,8 @@ The other python file is titled Sadek_Adam_CS330_Programming_Assignment_Pt2.py. 
 The average time, max time, and min time (in seconds) for the 20 trials is found. The average number of symbols, max number of symbols, and min number of symbols needed for the 20 trials is also found. This data is outputted to the screen. 
 
 The Sadek_Adam_CS330_Programming_Assignment_Pt2.py file is ran through the terminal by typing 'python' then the name of the file 'Sadek_Adam_CS330_Programming_Assignment_Pt2.py' then hitting enter. The input should look as follows:
-python Sadek_Adam_CS330_Programming_Assignment_Pt2.py
+python Sadek_Adam_CS330_Programming_Assignment_Pt2.py 
+(Make sure that the terminal is in the same directory that the python file is in when executing the above code)
 
 The Sadek_Adam_CS330_Programming_Assignment_Pt2.py file can be exited at any time by pressing ctrl-c.
 
